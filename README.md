@@ -20,4 +20,4 @@ Data Source Source: Kaggle
 Data help users explore and compare over 🗓️ Total Claims 🗓️ Total Policies 🗓️ Count of Coverage Zone .
 
 Features / Highlights The best dashboard explanation format. 💼Business Development 📊Goal of the dashboard 🚀Walk through of key visuals (briefly) 📝Impact & Insights
-6.Screenshot :
+6.Screenshot :https://github.com/tirupatirayudu/INSURANCE-RISK-AND-CLAIMS-ANALYSIS/blob/476ad06251988cfa15f48d173326e8b694e9868e/Insurance%20Risk%20And%20Claims%20Analysis.png
